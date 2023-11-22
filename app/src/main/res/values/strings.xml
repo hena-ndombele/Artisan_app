@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Artisan</string>
+    <string name="text_connecter">Se connecter</string>
+    <string name="text_email">email</string>
+    <string name="text_password">mot de passe</string>
+    <string name="text_creercompte">Créer mon compte</string>
+    <string name="text_pascompte">vous n\'avez pas de compte</string>
+    <string name="text_prenom">Prénom</string>
+    <string name="text_nom">Nom</string>
+    <string name="text_emails">Email</string>
+    <string name="text_telephone">Téléphone</string>
+    <string name="text_passwordconfirm">Confirmer mot de passe</string>
+    <string name="text_deja">vous avez déjà un compte?</string>
+    <string name="text_adresse">Adresse</string>
+    <string name="text_date">Date de livraison</string>
+    <string name="text_enregister">Enregistrer</string>
+    <string name="text_titre">Titre</string>
+    <string name="text_categorie">Categorie</string>
+    <string name="text_description">Description</string>
+    <string name="text_duree">Durée</string>
+    <string name="text_prix">Prix</string>
+    <string name="text_type">Type de prestation</string>
+    <string name="text_tableau">Tableau de bord</string>
+    <string name="text_clients">0</string>
+    <string name="text_prestation">0</string>
+    <string name="text_vous">0</string>
+</resources>
